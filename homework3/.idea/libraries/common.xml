@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="common">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../hadoop/hadoop_installs/hadoop-2.7.1/share/hadoop/common" />
+      <root url="file://$PROJECT_DIR$/../../../hadoop/hadoop_installs/hadoop-2.7.1/share/hadoop/common/lib" />
+      <root url="file://$PROJECT_DIR$/../../../hadoop/hadoop_installs/hadoop-2.7.1/share/hadoop/hdfs" />
+      <root url="file://$PROJECT_DIR$/../../../hadoop/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce" />
+      <root url="file://$PROJECT_DIR$/../../../hadoop/hadoop_installs/hadoop-2.7.1/share/hadoop/yarn" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../hadoop/hadoop_installs/hadoop-2.7.1/share/hadoop/common/jdiff" />
+      <root url="file://$PROJECT_DIR$/../../../hadoop/hadoop_installs/hadoop-2.7.1/share/hadoop/common/lib" />
+      <root url="file://$PROJECT_DIR$/../../../hadoop/hadoop_installs/hadoop-2.7.1/share/hadoop/hdfs/jdiff" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../hadoop/hadoop_installs/hadoop-2.7.1/share/hadoop/common" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../hadoop/hadoop_installs/hadoop-2.7.1/share/hadoop/common/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../hadoop/hadoop_installs/hadoop-2.7.1/share/hadoop/hdfs" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../hadoop/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../hadoop/hadoop_installs/hadoop-2.7.1/share/hadoop/yarn" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../hadoop/hadoop_installs/hadoop-2.7.1/share/hadoop/common/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
